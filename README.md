@@ -1,1 +1,15 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/fPQK30A4)
+python编程作业-凯撒密码  
+
+组员：朱洪慷 学号：2245014111 分工：穷举法破解凯撒密码和readme的编写
+
+组员：                        分工：凯撒密码的加密与解密部分与程序运行视频的录制
+
+程序功能
+
+加密	输入明文和密钥，显示密文	
+
+解密	输入密文和密钥，还原明文
+
+穷举法破解 输入密文，尝试所有可能的密钥	
+
+用到的知识：列表的遍历、切片，循环结构，用户键盘录入 函数的定义及调用
